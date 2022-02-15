@@ -1,0 +1,19 @@
+{
+  "name": "movies-search-engine",
+  "version": "1.0.0",
+  "description": "Movies info",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pass80/movies-serach-engine.git"
+  },
+  "author": "Feras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pass80/movies-serach-engine/issues"
+  },
+  "homepage": "https://github.com/Pass80/movies-serach-engine#readme"
+}
